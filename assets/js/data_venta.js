@@ -38,7 +38,7 @@ export const propiedades_venta = [
   {
     id: 4,
     nombre: "Piso moderno en el centro",
-    src: "https://images.unsplash.com/photo-1600607685548-7b1ca4fd17b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bW9kZXJuJTIwYXBhcnRtZW50JTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    src: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     descripcion: "Piso moderno y elegante, ideal para quienes buscan vivir en el centro de la ciudad",
     ubicacion: "789 Urban Way, Downtown City, NY 12345",
     habitaciones: 3,
@@ -62,7 +62,7 @@ export const propiedades_venta = [
   {
     id: 6,
     nombre: "Departamento moderno con terraza",
-    src: "https://images.unsplash.com/photo-1580594077078-34980f1b4d2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXBhcnRtZW50JTIwdGVycmFjZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60",
+    src: "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=2028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     descripcion: "Departamento moderno con amplia terraza y vistas panorámicas",
     ubicacion: "456 Skyline Ave, Highrise City, IL 34567",
     habitaciones: 2,

@@ -38,7 +38,7 @@ export const propiedades_alquiler = [
     {
       id: 4,
       nombre: "Casa rural con amplio jardín",
-      src: "https://images.unsplash.com/photo-1591785895535-1a49f997451b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y291bnRyeSUyMGhvbWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=700&q=60",
+      src: "https://plus.unsplash.com/premium_photo-1680300960892-bd11b59b469b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       descripcion: "Una encantadora casa rural con un amplio jardín perfecto para familias y mascotas.",
       ubicacion: "789 Country Lane, Ruralville, TX 12345",
       habitaciones: 4,
@@ -50,7 +50,7 @@ export const propiedades_alquiler = [
     {
       id: 5,
       nombre: "Loft de lujo en el distrito financiero",
-      src: "https://images.unsplash.com/photo-1550567023-0cac70b5e480?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bG9mdCUyMGFwYXJ0bWVudHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=700&q=60",
+      src: "https://plus.unsplash.com/premium_photo-1661963890332-64aca322d1e9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       descripcion: "Este loft de lujo está ubicado en el corazón del distrito financiero, ideal para profesionales.",
       ubicacion: "1010 Finance St, Metropolis, NY 67890",
       habitaciones: 1,
@@ -62,7 +62,7 @@ export const propiedades_alquiler = [
     {
       id: 6,
       nombre: "Estudio acogedor cerca de la universidad",
-      src: "https://images.unsplash.com/photo-1534982841079-afde227ada8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3R1ZGlvJTIwYXBhcnRtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=700&q=60",
+      src: "https://images.unsplash.com/photo-1533327325824-76bc4e62d560?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       descripcion: "Este acogedor estudio está a pocos minutos a pie de la universidad, perfecto para estudiantes.",
       ubicacion: "555 College Ave, University City, MA 54321",
       habitaciones: 1,
